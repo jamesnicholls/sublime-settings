@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"DashDoc",
-		"Package Control"
+		"Package Control",
+		"TypeScript"
 	]
 }
