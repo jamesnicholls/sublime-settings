@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"DashDoc",
+		"Emmet",
 		"Package Control",
+		"Sass",
 		"TypeScript"
 	]
 }
