@@ -7,8 +7,11 @@
 	[
 		"DashDoc",
 		"Emmet",
+		"JsPrettier",
 		"Package Control",
 		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"TypeScript"
 	]
 }
