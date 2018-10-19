@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"DashDoc",
 		"Emmet",
+		"JsFormat",
 		"JsPrettier",
 		"Package Control",
 		"Sass",
